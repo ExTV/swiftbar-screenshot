@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Xcode build folders and personal settings
+DerivedData/
+*.xcworkspace
+*.xcuserdata/
+xcuserdata/
+
+# Build outputs
+build/
+*.app
+*.dmg
+
+# Logs and temp
+*.log
+*.swp
+
+# Backup folder
+ScreenShot_backup/
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
